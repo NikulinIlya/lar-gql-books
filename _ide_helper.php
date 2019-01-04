@@ -3,7 +3,7 @@
 
 /**
  * A helper file for Laravel 5, to provide autocomplete information to your IDE
- * Generated for Laravel 5.7.19 on 2019-01-04 16:10:57.
+ * Generated for Laravel 5.7.19 on 2019-01-04 21:12:52.
  *
  * This file should not be included in your code, only analyzed by your IDE!
  *
@@ -13368,6 +13368,18 @@ namespace Illuminate\Support\Facades {
  
 }
 
+namespace Nuwave\Lighthouse { 
+
+    /**
+     * 
+     *
+     */ 
+    class GraphQL {
+         
+    }
+ 
+}
+
 
 namespace  { 
 
@@ -15797,6 +15809,8 @@ namespace  {
     class Validator extends \Illuminate\Support\Facades\Validator {}
 
     class View extends \Illuminate\Support\Facades\View {}
+
+    class graphql extends \Nuwave\Lighthouse\GraphQL {}
  
 }
 
