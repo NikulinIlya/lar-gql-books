@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95ef4bee-d38f-4be8-88ee-d252d349c4dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/lighthouse.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/lighthouse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/graphql/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/routes/graphql/schema.graphql" afterDir="false" />
-    </list>
+    <list default="true" id="95ef4bee-d38f-4be8-88ee-d252d349c4dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +67,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/GraphQL/Queries/SomeComplexQuery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -90,6 +95,7 @@
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/BooksTableSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/CategoriesTableSeeder.php" />
+        <option value="$PROJECT_DIR$/app/Http/GraphQL/Queries/SomeComplexQuery.php" />
       </list>
     </option>
   </component>
@@ -195,7 +201,7 @@
       <path value="$PROJECT_DIR$/vendor/webonyx/graphql-php" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-79" />
     <option name="y" value="-14" />
     <option name="width" value="1940" />
@@ -214,6 +220,32 @@
             <path>
               <item name="lar-gql-books" type="b2602c69:ProjectViewProjectNode" />
               <item name="lar-gql-books" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lar-gql-books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lar-gql-books" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lar-gql-books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lar-gql-books" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lar-gql-books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lar-gql-books" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="GraphQL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lar-gql-books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lar-gql-books" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="GraphQL" type="462c0819:PsiDirectoryNode" />
+              <item name="Queries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lar-gql-books" type="b2602c69:ProjectViewProjectNode" />
@@ -276,18 +308,18 @@
       <option name="presentableId" value="Default" />
       <updated>1546617449847</updated>
       <workItem from="1546617451386" duration="9441000" />
-      <workItem from="1546714636852" duration="1478000" />
+      <workItem from="1546714636852" duration="2468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10919000" />
+    <option name="totallyTimeSpent" value="11909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -405,6 +437,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/GraphQL/Queries/SomeComplexQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
