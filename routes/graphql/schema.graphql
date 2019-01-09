@@ -10,7 +10,7 @@ type Query {
 
     books: [Book] @all
     book(id: ID @eq): Book @find
-    booksByFeatured(feature: Boolean! @eq): [Book] @all
+    booksByFeatured(featured: Boolean! @eq): [Book] @all
     someComplexQuery(search: String!): [Book]
 
     categories: [Category] @all
